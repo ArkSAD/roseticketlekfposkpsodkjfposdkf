@@ -1,0 +1,43 @@
+05:08:25.449 INFO  Database setup complete... 
+05:08:27.168 INFO  Logged in! 
+05:08:42.967 ERROR Error getting version Error: Command failed: git rev-parse --short=4 HEAD
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:08:43.019 ERROR Error getting commit message Error: Command failed: git log -1 --pretty=%B
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:08:43.075 ERROR Error getting creation time Error: Command failed: git log -1 --date=short --pretty=format:%ci
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:09:21.735 INFO  Database setup complete... 
+05:09:24.955 INFO  Logged in! 
+05:09:35.927 ERROR Error in command levels: rank TypeError: Cannot read property 'exp' of undefined 
+05:12:23.771 ERROR Error getting version Error: Command failed: git rev-parse --short=4 HEAD
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:12:23.816 ERROR Error getting commit message Error: Command failed: git log -1 --pretty=%B
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:12:23.860 ERROR Error getting creation time Error: Command failed: git log -1 --date=short --pretty=format:%ci
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:13:28.816 INFO  Database setup complete... 
+05:13:31.659 INFO  Logged in! 
+05:13:59.910 INFO  Database setup complete... 
+05:14:04.077 INFO  Logged in! 
+05:14:32.680 INFO  Database setup complete... 
+05:14:35.548 INFO  Logged in! 
+05:34:22.304 ERROR Error getting version Error: Command failed: git rev-parse --short=4 HEAD
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:34:22.351 ERROR Error getting commit message Error: Command failed: git log -1 --pretty=%B
+fatal: not a git repository (or any of the parent directories): .git
+ 
+05:34:22.400 ERROR Error getting creation time Error: Command failed: git log -1 --date=short --pretty=format:%ci
+fatal: not a git repository (or any of the parent directories): .git
+ 
+08:46:36.866 INFO  Logged in! 
+09:50:26.468 INFO  Logged in! 
+19:25:14.211 INFO  Logged in! 
+20:51:14.665 INFO  Database setup complete... 
+20:51:17.197 INFO  Logged in! 
