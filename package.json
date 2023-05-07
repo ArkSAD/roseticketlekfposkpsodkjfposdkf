@@ -10,7 +10,7 @@
   "author": "DerAtrox",
   "license": "MIT",
   "dependencies": {
-    "bufferutil": "^3.0.3",
+    "bufferutil": "^3.0.5",
     "common-tags": "^1.7.2",
     "discord.js": "github:hydrabolt/discord.js#master",
     "discord.js-commando": "github:gawdl3y/discord.js-commando",
